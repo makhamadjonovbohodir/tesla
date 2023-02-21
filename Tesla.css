@@ -1,0 +1,71 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.parent{
+	background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/8a74d206-66dc-4386-8c7a-88ff32174e7d/bvlatuR/std/4096x2560/Model-S-Main-Hero-Desktop-LHD);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height:100vh;
+	text-align: center;
+}
+.parent3 {
+	width: 100%;
+	height: 40vh;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	margin-top: 560px;
+	margin-: 35px;
+}
+.parentq{
+	background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/c0c475f7-2856-46e1-87ab-dd67ec8dd43f/bvlatuR/std/2880x1800/MS-Interior-Hero-Desktop);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height:100vh;
+	text-align: center;
+}
+.parentw{
+	background-image: url(https://tesla-cdn.thron.com/delivery/public/video/tesla/66dae454-284f-41e6-b730-1773e87126f0/bvlatuR/WEBHD/MS-Interior-Carousel-5-Gaming-Mobile);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height:100vh;
+	text-align: center;
+}
+.parente{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	width: 100%;
+}
+.childr img, .childt img, .childy img {
+	width: 500px;
+	height: 300px;
+}
+.childr, .childt, .childy {
+	width: 500px;
+	height: 40vh;
+}
+.parentt{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	width: 100%;}
+.childt img {
+	margin-top: -5px;
+}
+.parenty{
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	width: 100%;}
+.childy img {
+	margin-top: -5px;
+}
